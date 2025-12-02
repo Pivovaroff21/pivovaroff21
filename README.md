@@ -26,16 +26,16 @@ REST API design and implementation
 Experience with server-side rendering and API integrations
 Docker
 
-### Web3 & Blockchain
-- Solidity, Hardhat (smart contracts development & testing)  
-- Experience deploying and interacting with contracts on Oasis Sapphire testnet  
-- Web3 integrations from Laravel (e.g. web3.php, contract services, event listeners, on-chain/off-chain interaction patterns)  
-- Designing backend flows around on-chain game / interaction logic (shares, mints, interactions, etc.)
+**Web3 & Blockchain**
+Solidity, Hardhat (smart contracts development & testing)  
+Experience deploying and interacting with contracts on Oasis Sapphire testnet  
+Web3 integrations from Laravel (e.g. web3.php, contract services, event listeners, on-chain/off-chain interaction patterns)  
+Designing backend flows around on-chain game / interaction logic (shares, mints, interactions, etc.)
 
-### AI & Automation
-- Integration of **ChatGPT API** and **Gemini API** into Laravel/Nuxt applications  
-- Prompt design and basic AI orchestration on the backend (chaining calls, validation, logging, retries)  
-- Building internal tools that use LLMs for automation, content generation, and decision support
+**AI & Automation**
+Integration of **ChatGPT API** and **Gemini API** into Laravel/Nuxt applications  
+Prompt design and basic AI orchestration on the backend (chaining calls, validation, logging, retries)  
+Building internal tools that use LLMs for automation, content generation, and decision support
 
 **CMS & Extensions**  
 Joomla (building custom extensions: components, modules, plugins; successfully listed module on JED)
