@@ -58,8 +58,7 @@ CI/CD
 - 📲 Telegram: [@pivovar_off](https://t.me/pivovar_off)
 - 📧 Email: [bogdan21122003@gmail.com](mailto:bogdan21122003@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/bohdanpyvovarov/](https://www.linkedin.com/in/bohdanpyvovarov/)
-- 🌍 Location: Ukraine <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine Flag">
-
+- 🌍 Location: Lisboa, Portugal
 
 ---
 
