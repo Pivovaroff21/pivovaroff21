@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bohdan Pyvovarov
 
 
-I’m a **Full-Stack Developer** with 3+ years of experience building custom web apps using Laravel and Nuxt.  
+I’m a **Full-Stack Developer** with 4+ years of experience building custom web apps using Laravel and Nuxt.  
 Known for being hardworking, a fast learner, and having strong problem-solving skills. I’m passionate about writing clean, DRY code and constantly strive to improve and find better solutions every time.
 
 
